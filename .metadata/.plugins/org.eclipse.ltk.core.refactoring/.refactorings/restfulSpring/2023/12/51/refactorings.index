@@ -2,3 +2,5 @@
 1703284173831	Rename type 'RestfulSpringApplicationTests'
 1703284200967	Rename type 'Startup'
 1703284255306	Rename resource 'application.properties'
+1703337439247	Delete element
+1703337461331	Rename type 'GreetingController'
